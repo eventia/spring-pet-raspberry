@@ -15,6 +15,15 @@
 3. github 에 spring-pet-raspberry 로 업로드 할 것
 
 
+## FTP 서버 만들기
+
+- http://withcoding.com/47
+
+1. sudo apt-get install vsftpd
+2. sudo nano /etc/vsftpd.conf
+3. 
+
+
 ## 과정
 1. PC 에 MySQL 설치
 2. 라즈베리파이에 MySQL 설치
@@ -39,3 +48,17 @@ Ctrl+C 로 저장 종료
 
 
 
+# 라즈베리파이에서 영상 녹화 후 FTP 로 PC 에 전송
+1. RecordMyDesktop 설치
+- sudo apt-get install recordmydesktop
+
+2. 실행 : 사운드카드가 없으므로 no-sound 선택
+- recordmydesktop --no-sound 
+- 종료할 때 Ctrl+C 
+
+3. ftp 설치
+- sudo apt-get install vsftpd
+- sudo nano /etc/vsftpd.conf
+- 참고 http://withcoding.com/47
+
+4. PC 에서 ftp Client 실행 후 접속

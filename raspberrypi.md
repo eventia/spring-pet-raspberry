@@ -1,0 +1,18 @@
+## 라즈베리파이 준비
+
+1. 구입 : 
+- 라즈베리파이 3 B+ 
+- 전용(2.5A이상) USB 어댑터
+- 32G micro SD 카드
+
+2. microSD 에 라즈베리파이 OS 설치
+- 홈페이지 접속(https://www.raspberrypi.org/) RASBIAN 다운로드 [NOOBS도 괜찮음]
+- LITE 버젼이 아닌 것을 다운 받음 (2018.10.18. 현재 *RASPBIAN STRETCH WITH DESKTOP* 를 다운)
+- Win32 Disk Imager(https://sourceforge.net/projects/win32diskimager) 로 PC(윈도우) 에서 sd 에 기록(write)
+
+## 
+
+## 
+
+## 
+

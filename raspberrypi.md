@@ -10,8 +10,15 @@
 - LITE 버젼이 아닌 것을 다운 받음 (2018.10.18. 현재 *RASPBIAN STRETCH WITH DESKTOP* 를 다운)
 - Win32 Disk Imager(https://sourceforge.net/projects/win32diskimager) 로 PC(윈도우) 에서 sd 에 기록(write)
 
-3. SD 초기화
+2-1. SD 초기화
 - SD 문제 발생시 초기화는 *SD Card Formatter* 로 처리(https://www.sdcard.org/downloads/formatter_4/)
+
+3. 설치
+- 모니터와 HDMI 케이블연결 / USB 마우스 키보드 연결
+- pi / raspberry 로그인
+- 
+
+
 
 ## 
 

@@ -16,7 +16,12 @@
 3. 설치
 - 모니터와 HDMI 케이블연결 / USB 마우스 키보드 연결
 - pi / raspberry 로그인
-- 
+- wifi 설정 후 자동업데이트
+- 재부팅 후 
+-- sudo apt-get update
+-- sudo apt-get upgrade -y
+
+
 
 
 

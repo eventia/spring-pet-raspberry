@@ -13,7 +13,7 @@
 3. SD 초기화
 - SD 문제 발생시 초기화는 *SD Card Formatter* 로 처리(https://www.sdcard.org/downloads/formatter_4/)
 
-4. 라즈베리파이 설정
+4. 라즈베리파이 설정 1
 - 모니터와 HDMI 케이블연결 / USB 마우스 키보드 연결
 - pi / raspberry 로그인
 - wifi 설정 후 자동업데이트
@@ -24,10 +24,8 @@
 - sudo apt-get install ibus-hangul -y
 - sudo apt-get install fonsts-unfonts-core -y
 
-
-
-
-5. 
+5. 라즈베리파이 설정 2
+- [WIN] >> Preferences >> Raspberry Pi Configuration >> [Localization] >> Set Locale >> 
 
 
 

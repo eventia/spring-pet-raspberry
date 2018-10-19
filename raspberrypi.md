@@ -26,6 +26,7 @@
 
 5. 라즈베리파이 설정 2
 - [WIN] >> Preferences >> Raspberry Pi Configuration >> [Localization] >> Set Locale >> 
+- 참고 : http://cccding.tistory.com/96
 
 
 

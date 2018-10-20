@@ -63,4 +63,4 @@ Ctrl+C 로 저장 종료
 
 4. PC 에서 ftp Client 실행 후 접속
 
-5. wikibooks 자바
+5. wikibooks 자바 최소문

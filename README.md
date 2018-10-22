@@ -81,11 +81,19 @@ Ctrl+C 로 저장 종료
 - 중급으로 : 패키지, static, 예외처리
 - 프로젝트 : 구구단, 소수출력
 
+
 2. Web Service 튜토리얼
 
 - HTML/CSS/JSP/Spring
 - tomcat 설치
-- 
- 
+- DBMS, MySQL 
+- Hello World
+- jsp 와 servlet
 
-3. Spring 기초
+
+3. Spring 기초(블로그 만들기)
+
+- Hello World
+- DB 설계
+- 
+

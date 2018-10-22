@@ -84,6 +84,8 @@ Ctrl+C 로 저장 종료
 2. Web Service 튜토리얼
 
 - HTML/CSS/JSP/Spring
+- tomcat 설치
+- 
  
 
 3. Spring 기초
